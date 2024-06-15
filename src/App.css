@@ -1,0 +1,64 @@
+:root {
+  --cta_delay: 5000ms;
+  --gradient-color-primary: #458cfe;
+  --gradient-color-secondary: #7dd8fd;
+
+  --background-content-light: #f7f9fb;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.typeAnimation_holder {
+  display: none;
+}
+
+.typeAnimation_holder.Mobile {
+  display: block;
+}
+
+@media (min-width: 734px) {
+  .typeAnimation_holder {
+    display: block;
+  }
+
+  .typeAnimation_holder.Mobile {
+    display: none;
+  }
+}
+
+.typeAnimation {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+}
+
+.typeAnimation.typeAnimationEveryone {
+  background: linear-gradient(88.93deg, #278fef 18.91%, #1ac8ff 79.91%);
+}
+
+.typeAnimation.typeAnimationStartups {
+  background: linear-gradient(88.93deg, #2689e8 18.91%, #03cfc2 79.91%);
+}
+
+.typeAnimation.typeAnimationCreators {
+  background: linear-gradient(88.93deg, #3d83f0 18.91%, #7b84ff 79.91%);
+}
+
+.typeAnimation.typeAnimationGamers {
+  background: linear-gradient(88.93deg, #1f98e8 18.91%, #02d0de 79.91%);
+}
+
+.typeAnimation.typeAnimationCryptoNinjas {
+  background: linear-gradient(89deg, #2689e8 18.91%, #a168ff 79.91%);
+}
+
+.index-module_type__E-SaG::after {
+  content: "|" !important;
+  -webkit-text-fill-color: #0098ea;
+  overflow: hidden;
+  border-radius: 100px;
+  letter-spacing: normal;
+  transform: scaleX(0.2) scaleY(0.9) translateY(10%);
+  display: inline-flex;
+}
