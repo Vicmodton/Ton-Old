@@ -5882,7 +5882,7 @@ function Home() {
               ButtonText--l-1
               ButtonText--t-default"
                                         >
-                                          Explore solutions
+                                          Connect Wallet
                                         </span>
                                         <span className="NewButton__after NewButton__after--arrow">
                                           <svg
@@ -6108,7 +6108,7 @@ function Home() {
   "
                                     >
                                       <p>
-                                        Swap currencies on&nbsp;decentralized
+                                        Swap Currencies on&nbsp;decentralized
                                         exchanges.
                                       </p>
                                     </div>
@@ -6131,7 +6131,7 @@ function Home() {
               ButtonText--l-1
               ButtonText--t-default"
                                         >
-                                          Swap currencies
+                                          Connect Wallet
                                         </span>
                                         <span className="NewButton__after NewButton__after--arrow">
                                           <svg
@@ -6362,7 +6362,7 @@ function Home() {
               ButtonText--l-1
               ButtonText--t-default"
                                         >
-                                          Connect Bridge
+                                          Connect Wallet
                                         </span>
                                         <span className="NewButton__after NewButton__after--arrow">
                                           <svg
@@ -6553,7 +6553,7 @@ function Home() {
               ButtonText--l-1
               ButtonText--t-default"
                                         >
-                                          Resolve Issues
+                                          Connect Wallet
                                         </span>
                                         <span className="NewButton__after NewButton__after--arrow">
                                           <svg
@@ -6912,7 +6912,7 @@ function Home() {
               ButtonText--l-1
               ButtonText--t-default"
                                         >
-                                          Start Here
+                                          Connect Wallet
                                         </span>
                                         <span className="NewButton__after NewButton__after--arrow">
                                           <svg
@@ -7088,7 +7088,7 @@ function Home() {
               ButtonText--l-1
               ButtonText--t-default"
                                         >
-                                          Learn more
+                                          Connect Wallet
                                         </span>
                                         <span className="NewButton__after NewButton__after--arrow">
                                           <svg
